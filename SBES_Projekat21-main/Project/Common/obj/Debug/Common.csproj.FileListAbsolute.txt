@@ -1,0 +1,17 @@
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\bin\Debug\Common.dll
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\bin\Debug\Common.pdb
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\obj\Debug\Common.dll
+C:\Users\danij\OneDrive\Radna površina\SBES\SBES_Projekat21\Project\Common\obj\Debug\Common.pdb
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\bin\Debug\Common.dll
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\bin\Debug\Common.pdb
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\obj\Debug\Common.dll
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\obj\Debug\Common.pdb
+C:\Users\ZBOOK\Desktop\SBES_Project\SBES_Projekat21\Project\Common\bin\Debug\Common.dll
+C:\Users\ZBOOK\Desktop\SBES_Project\SBES_Projekat21\Project\Common\bin\Debug\Common.pdb
+C:\Users\ZBOOK\Desktop\SBES_Project\SBES_Projekat21\Project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK\Desktop\SBES_Project\SBES_Projekat21\Project\Common\obj\Debug\Common.dll
+C:\Users\ZBOOK\Desktop\SBES_Project\SBES_Projekat21\Project\Common\obj\Debug\Common.pdb
+C:\Users\User\Desktop\SBES-Projekat\SBES_Projekat21\Project\Common\obj\Debug\Common.csproj.AssemblyReference.cache
